@@ -77,7 +77,7 @@
   ],
   "license": "Apache-2.0",
   "main": "./xlsx",
-  "name": "xlsx-style",
+  "name": "hybo-xlsx-style",
   "repository": {
     "type": "git",
     "url": "git://github.com/protobi/js-xlsx.git#beta"
